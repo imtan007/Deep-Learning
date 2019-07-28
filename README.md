@@ -1,4 +1,4 @@
-# Machine-Learning
-Machine learning projects
+# Deep-Learning
+Deep learning projects
 
-In this project I have built a handwritten digit classifier using MNIST dataset using keras 
+Basic Deep Learning using Neural Network
